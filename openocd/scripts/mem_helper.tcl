@@ -1,5 +1,3 @@
-# SPDX-License-Identifier: GPL-2.0-or-later
-
 # Helper for common memory read/modify/write procedures
 
 # mrw: "memory read word", returns value of $reg
